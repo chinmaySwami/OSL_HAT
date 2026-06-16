@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "OSL") (type "KiCad") (uri "${KIPRJMOD}/OSL.pretty") (options "") (descr ""))
+	(lib (name "OSL") (type "KiCad") (uri "${KIPRJMOD}/OSL.pretty/OSL.pretty") (options "") (descr ""))
+)
